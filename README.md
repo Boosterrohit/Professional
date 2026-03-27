@@ -1,29 +1,29 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Rohit Kumar Sah</h1>
+<h3 align="center">A Passionate FullStack Developer</h3>
 
 ---
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Android App Development**
-- 🌱 I’m currently learning **React.js and Node.js**
+- 🌱 I’m currently learning **React.js, Node.js and Python**
 - 💬 Ask me about **React, JavaScript, UI/UX**
-- 📫 How to reach me: **yourmail@gmail.com**
+- 📫 How to reach me: **boosterrohit@gmail.com**
 
 ---
 
 ### 🌐 Socials:
 <p align="left">
-<a href="https://github.com/yourusername" target="blank">
+<a href="https://github.com/Boosterrohit" target="blank">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </a>
-<a href="https://linkedin.com/in/yourusername" target="blank">
+<a href="https://www.linkedin.com/in/therohit-sah/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://instagram.com/yourusername" target="blank">
+<a href="https://www.instagram.com/rohit_shah8989/" target="blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
 </a>
-<a href="https://youtube.com/@yourchannel" target="blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" />
+<a href="https://www.facebook.com/rohit.shah.930396" target="blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 </p>
 
