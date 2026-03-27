@@ -70,11 +70,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boosterrohit&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Boosterrohit&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boosterrohit&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boosterrohit&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
