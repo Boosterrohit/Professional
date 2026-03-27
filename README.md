@@ -35,38 +35,36 @@
 ---
 
 ## 🛠️ Tech Stack
-
-### 🚀 Frontend
 <p>
+<!-- Frontend -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
 <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
 
-### 💻 Languages
-<p>
+<!-- Languages -->
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
 
-### 🎨 Styling & UI
-<p>
+<!-- Styling -->
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_UI-0EA5E9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
 
-### ⚙️ Backend & Tools
-<p>
+<!-- Backend -->
 <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<!-- State Management -->
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge" />
-</p>
 
+<!-- Others -->
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge" />
+<img src="https://img.shields.io/badge/QA_Testing-4CAF50?style=for-the-badge" />
+</p>
 ---
 
 ## 📊 GitHub Stats
